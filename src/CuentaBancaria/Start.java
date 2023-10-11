@@ -10,7 +10,7 @@ public class Start {
 		Scanner scanner = new Scanner(System.in);
 		CuentaAhorros miCuenta = new CuentaAhorros(1000000, 1.3f);
 		while (true) {
-			System.out.println("\nBIENVENIDO A TU CUENTA");
+			System.out.println("\nBIENVENIDO A TU CUENTA BANCARIA");
 			System.out.println("1. Consignar");
 			System.out.println("2. Retirar");
 			System.out.println("3. Calcular interes");
